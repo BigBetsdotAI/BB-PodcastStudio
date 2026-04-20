@@ -1,26 +1,5 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/admin/page": "app/admin/page.js",
   "/page": "app/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/robots.txt/route": "app/robots.txt/route.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js",
-  "/api/booking/quote/route": "app/api/booking/quote/route.js",
-  "/api/booking/confirm/route": "app/api/booking/confirm/route.js",
-  "/api/admin/route": "app/api/admin/route.js",
-  "/api/auth/send-otp/route": "app/api/auth/send-otp/route.js",
-  "/api/mock-payment/route": "app/api/mock-payment/route.js",
-  "/api/bookings/coupon/route": "app/api/bookings/coupon/route.js",
-  "/api/slots/route": "app/api/slots/route.js",
   "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/api/bookings/route": "app/api/bookings/route.js",
-  "/api/auth/verify-otp/route": "app/api/auth/verify-otp/route.js",
-  "/contact/page": "app/contact/page.js",
-  "/pricing/page": "app/pricing/page.js",
-  "/studio/page": "app/studio/page.js",
-  "/booking/page": "app/booking/page.js",
-  "/auth/register/page": "app/auth/register/page.js",
-  "/auth/signin/page": "app/auth/signin/page.js",
-  "/auth/error/page": "app/auth/error/page.js",
-  "/auth/continue/page": "app/auth/continue/page.js"
+  "/studio/page": "app/studio/page.js"
 }
