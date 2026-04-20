@@ -1,0 +1,1 @@
+{"version":1,"functions":{"/api/auth/send-otp":{},"/api/bookings/coupon":{},"/api/admin":{},"/api/booking/quote":{},"/api/mock-payment":{},"/api/bookings":{},"/api/auth/[...nextauth]":{},"/contact":{},"/api/slots":{},"/pricing":{},"/studio":{},"/api/auth/verify-otp":{},"/api/booking/confirm":{}}}
